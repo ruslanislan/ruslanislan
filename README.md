@@ -1,3 +1,5 @@
-- 👋 Привет, я Исланбеков Руслан Флаттер Разработчик.
-Занимаюсь флаттером с 2020 года. В проектах использую паттерны BLoC и Provider.
-
+- 👋 Hi, I'm engineer Ruslan Islanbekov.
+- Experienced Flutter Developer. I use BLoC, Provider, context, Sqlite, freezed, etc..
+- Experience in Firebase, Regula face-matching, AWS service.
+- Learning Swift and GO.
+- Have basics: C#, C++.
